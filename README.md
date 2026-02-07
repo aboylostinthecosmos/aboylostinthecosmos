@@ -12,22 +12,6 @@
 
 ---
 
-## 🔹 Currently Working On  
-- Particle Physics (SWAYAM)  
-- Differential Equations  
-- Thermal & Statistical Physics  
-- CS50P: Python Programming  
-- CS50 AI  
-- LaTeX  
-
----
-
-## 🔹 Upcoming Projects  
-- [Exoplanet Transit Data Analysis](https://github.com/ui-fictitious/exoplanet-transit)  
-- [Astrophysics Simulation Project](https://github.com/ui-fictitious/astro-simulation)  
-
----
-
 ## 🔹 Skills  
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
 - ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
