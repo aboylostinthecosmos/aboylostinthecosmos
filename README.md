@@ -10,7 +10,7 @@ I am particularly interested in:
 * Stellar evolution
 * Dark matter and dark energy
 * Origin and fate of the universe
-* Theoretical cosmology
+* Theoretical cosmology and Observational astronomy
 
 ---
 
