@@ -7,18 +7,10 @@ Currently pursuing a **B.Sc. Multidisciplinary (Physics, Mathematics, Geography)
 
 I am particularly interested in:
 
-* Stellar variability and evolution
+* Stellar evolution
 * Dark matter and dark energy
-* Observational astronomy
-* Computational astrophysics
-
----
-
-## 🔭 Current Focus
-
-* Photometric analysis of variable stars
-* Python-based astronomical data analysis
-* Preparing for **Integrated PhD programs in astrophysics**
+* Origin and fate of the universe
+* Theoretical cosmology
 
 ---
 
