@@ -1,91 +1,120 @@
-\documentclass[11pt, a4paper]{article}
+# Kumar Shivam
 
-% --- UNIVERSAL PREAMBLE BLOCK ---
-\usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
-\usepackage{fontspec}
+**Physics Undergraduate | Aspiring Astrophysicist**
 
-\usepackage[english, bidi=basic, provide=*]{babel}
-\babelprovide[import, onchar=ids fonts]{english}
+Passionate about **stellar astrophysics, cosmology, and the physics of the universe**.
+Currently pursuing a **B.Sc. Multidisciplinary (Physics, Mathematics, Geography)** at IGNOU and working on projects involving **astronomical data analysis using Python**.
 
-% Set default/Latin font to Sans Serif in the main (rm) slot
-\babelfont{rm}{Noto Sans}
+I am particularly interested in:
 
-% Required for custom list styling
-\usepackage{enumitem}
+* Stellar variability and evolution
+* Dark matter and dark energy
+* Observational astronomy
+* Computational astrophysics
 
-% hyperref must be the last package loaded
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,      
-    urlcolor=blue,
-    pdftitle={Kumar Shivam - Profile},
-}
+---
 
-\begin{document}
+## 🔭 Current Focus
 
-\begin{center}
-    {\Huge \textbf{Hi there, I'm Kumar Shivam!}}\\[0.3cm]
-    {\Large \textit{Science Undergraduate | Aspiring Astrophysicist \& Data Analyst}}
-\end{center}
+* Photometric analysis of variable stars
+* Python-based astronomical data analysis
+* Preparing for **Integrated PhD programs in astrophysics**
 
-\vspace{0.5cm}
+---
 
-\noindent
-I am a highly motivated 2nd-year Bachelor of Science Multidisciplinary (BSCM) student majoring in \textbf{Physics, Mathematics, and Geography}. I am deeply passionate about space, nature, and philosophy, with a specific interest in stellar astrophysics, the origin of the universe, and the mysteries of dark energy and dark matter. 
+## 🎓 Education
 
-\vspace{0.2cm}
-\noindent
-I actively seek to apply my theoretical knowledge, observational astronomy coursework, and Python data analysis skills to rigorous academic research.
+**Bachelor of Science (Multidisciplinary)**
+Indira Gandhi National Open University (IGNOU)
+2024 – 2027
+CGPA: 7.13 / 10
 
-\vspace{0.5cm}
-\hrule
-\vspace{0.5cm}
+Majors:
 
-\section*{What I'm currently working on \& learning}
-\begin{itemize}[label=--]
-    \item Pursuing a \textbf{Certificate Course in Observational Astronomy} at the S. N. Bose National Centre for Basic Sciences (2026--2027).
-    \item Conducting research and writing conceptual science articles on fundamental topics like Dark Energy, Time, and Stellar Variability.
-    \item Expanding my skills in astronomical data analysis using Python libraries like \texttt{Astropy}, \texttt{NumPy}, and \texttt{Pandas}.
-\end{itemize}
+* Physics
+* Mathematics
+* Geography
 
-\section*{Research \& Experience}
-\noindent\textbf{Winter Intern | Propagation Institute for Advance Studies} \textit{(Oct 2025 -- Dec 2025)}
-\begin{itemize}[label=--]
-    \item Participated in a Winter School combining astrophysics, cosmology, and scientific writing.
-    \item Conducted a focused \textbf{photometric data analysis project on the red supergiant star Betelgeuse}.
-    \item Performed data cleaning, visualization, and stellar variability analysis using Python.
-    \item Authored a detailed research article: \textit{"The Variability of the Red Supergiant Betelgeuse: A Detailed Photometric Analysis"}.
-\end{itemize}
+**Certificate Course – Observational Astronomy**
+S. N. Bose National Centre for Basic Sciences
+2026 – 2027
 
-\section*{Skills \& Tools}
-\begin{itemize}[label=--]
-    \item \textbf{Programming \& Data Analysis:} Python, NumPy, Pandas, Astropy, Matplotlib
-    \item \textbf{Research Skills:} Photometric Analysis, Scientific Writing, Data Visualization
-    \item \textbf{Academic Focus:} Stellar Astrophysics, Observational Astronomy, Physics, Mathematics
-\end{itemize}
+---
 
-\section*{Honors \& Certifications}
-\begin{itemize}[label=--]
-    \item Winter School of Astronomy \& Astrophysics (2025)
-    \item Certification in Particle Physics
-\end{itemize}
+## 🔬 Research Experience
 
-\vspace{0.5cm}
-\hrule
-\vspace{0.5cm}
+### Winter Intern
 
-\section*{Let's Connect!}
-\begin{itemize}[label=--]
-    \item \textbf{LinkedIn:} \href{https://linkedin.com/in/aboylostinthecosmos}{linkedin.com/in/aboylostinthecosmos}
-    \item \textbf{Email:} \href{mailto:kshivam4002@gmail.com}{kshivam4002@gmail.com}
-    \item \textbf{GitHub:} \href{https://github.com/aboylostinthecosmos}{github.com/aboylostinthecosmos}
-\end{itemize}
+**Propagation Institute for Advance Studies**
+Oct 2025 – Dec 2025
 
-\vspace{1.5cm}
-\begin{center}
-    \large\textit{"A boy lost in the cosmos, trying to understand the fabric of reality."}
-\end{center}
+* Participated in a winter school combining **astrophysics, cosmology, and scientific writing**.
+* Conducted a **photometric analysis of the red supergiant Betelgeuse**.
+* Performed **data cleaning, visualization, and variability analysis using Python**.
+* Authored a research article:
 
-\end{document}
+**"The Variability of the Red Supergiant Betelgeuse: A Detailed Photometric Analysis"**
+
+Additional writing work includes conceptual science articles on:
+
+* Dark Energy
+* The nature of Time in physics and philosophy
+
+---
+
+## 🛰️ Research Interests
+
+* Stellar Astrophysics
+* Cosmology
+* Dark Matter & Dark Energy
+* Variable Star Analysis
+* Computational Astronomy
+
+---
+
+## 💻 Technical Skills
+
+### Programming & Data Analysis
+
+* Python
+* NumPy
+* Pandas
+* Astropy
+
+### Research
+
+* Photometric Data Analysis
+* Scientific Writing
+* Data Visualization
+
+### Academic Background
+
+* Physics
+* Mathematics
+* Observational Astronomy
+
+---
+
+## 🌍 Languages
+
+* Maithili (Native)
+* Hindi (Native)
+* English (Professional)
+* Sanskrit (Elementary)
+* Japanese (Elementary)
+
+---
+
+## 🔗 Links
+
+GitHub: https://github.com/aboylostinthecosmos
+LinkedIn: https://www.linkedin.com/in/aboylostinthecosmos/
+Portfolio: https://aboylostinthecosmos.github.io/fictitious/
+
+---
+
+## ✨ Research Vision
+
+My long-term goal is to pursue **an Integrated PhD/PHD in Astrophysics**, focusing on the **fundamental physics governing the universe**, including the role of **dark energy, dark matter, and stellar evolution**.
+
+I aim to contribute to both **observational and computational astrophysics**, combining **astronomical data analysis with theoretical insights** to better understand the cosmos.
